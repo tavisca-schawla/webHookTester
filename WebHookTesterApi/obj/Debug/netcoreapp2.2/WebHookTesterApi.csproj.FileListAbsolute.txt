@@ -1,0 +1,14 @@
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\bin\Debug\netcoreapp2.2\WebHookTesterApi.deps.json
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\bin\Debug\netcoreapp2.2\WebHookTesterApi.runtimeconfig.json
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\bin\Debug\netcoreapp2.2\WebHookTesterApi.runtimeconfig.dev.json
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\bin\Debug\netcoreapp2.2\WebHookTesterApi.dll
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\bin\Debug\netcoreapp2.2\WebHookTesterApi.pdb
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\obj\Debug\netcoreapp2.2\WebHookTesterApi.csprojAssemblyReference.cache
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\obj\Debug\netcoreapp2.2\WebHookTesterApi.csproj.CoreCompileInputs.cache
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\obj\Debug\netcoreapp2.2\WebHookTesterApi.RazorAssemblyInfo.cache
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\obj\Debug\netcoreapp2.2\WebHookTesterApi.RazorAssemblyInfo.cs
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\obj\Debug\netcoreapp2.2\WebHookTesterApi.AssemblyInfoInputs.cache
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\obj\Debug\netcoreapp2.2\WebHookTesterApi.AssemblyInfo.cs
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\obj\Debug\netcoreapp2.2\WebHookTesterApi.RazorTargetAssemblyInfo.cache
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\obj\Debug\netcoreapp2.2\WebHookTesterApi.dll
+C:\Sundesh\Training\WebHookTesting\WebHookTesterApi\WebHookTesterApi\obj\Debug\netcoreapp2.2\WebHookTesterApi.pdb
